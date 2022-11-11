@@ -10,7 +10,6 @@ import org.springframework.stereotype.Service;
 
 import com.cus.security.config.JwtTokenUtil;
 import com.cus.security.model.Response;
-import com.cus.security.model.StatusDTO;
 import com.cus.security.model.UserAndTokenDTO;
 
 @Service

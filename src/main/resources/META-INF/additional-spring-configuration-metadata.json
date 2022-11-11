@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "jwt.secret",
+    "type": "java.lang.String",
+    "description": "For generate hash with JWT"
+  },
+  {
+    "name": "spring.redis.ttl",
+    "type": "java.lang.String",
+    "description": "Time to live of token on redis"
+  }
+]}
