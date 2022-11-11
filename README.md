@@ -1,9 +1,9 @@
 # cus-security-service
-![Go to Real Cool Heading section](https://github.com/ShoppingCarProject/cus-shopping-car-service/blob/develop/src/main/resources/cus-collection.postman_collection.json)
+![JSON COLLECTION](https://github.com/ShoppingCarProject/cus-shopping-car-service/blob/develop/src/main/resources/cus-collection.postman_collection.json)
 ## how to start de project: 
 >Download repository
 
-`git clone https://github.com/ShoppingCarProject/cus-shopping-car-service.git `
+`git clone https://github.com/ShoppingCarProject/cus-security-service.git `
 
 > Open with your IDE ( I Worked the project with Spring tool suite)
 
