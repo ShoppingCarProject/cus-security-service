@@ -40,6 +40,9 @@ logging.level.root=INFO
 > run your project if you hava a conetion with redis and Mysql, the projects works
 
 > THE PROJECT  cus-shopping-car-service GOING TO GENERATE THE DATABASE
+## DIAGRAM
+
+![diagrama](https://user-images.githubusercontent.com/58859695/201436305-903e1d4d-75ba-47ac-85fa-349d887c9d32.png)
 
 ## Dependencys: 
  - Redis
